@@ -11,7 +11,7 @@ def input_students():
         student_name = input(f"Enter student {i+1} name: ")
         DoB = input(f"Enter student {i+1} date of birth: ")
         student_info = (student_id, student_name, DoB)
-        students.append(student_info)
+        students.append(student_info)   
 
 # Function to list all students
 def list_students():
