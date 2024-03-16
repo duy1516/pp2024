@@ -1,0 +1,15 @@
+Course: adp
+Student ID: 123, Name: hoang duy, Mark: 19.0
+Student ID: 321, Name: duy hoang, Mark: 20.0
+Course: os
+Student ID: 123, Name: hoang duy, Mark: 20.0
+Student ID: 321, Name: duy hoang, Mark: 19.5
+Course: ewq
+Student ID: 123, Name: hoang duy, Mark: 12.22
+Student ID: 321, Name: duy hoang, Mark: 20.0
+Course: rewq
+Student ID: 123, Name: qwe, Mark: 12.0
+Student ID: ewq, Name: 321qwe, Mark: 2.0
+Course: fdsa
+Student ID: 123, Name: qwe, Mark: 3.0
+Student ID: ewq, Name: 321qwe, Mark: 4.0

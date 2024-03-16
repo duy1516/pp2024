@@ -1,0 +1,4 @@
+from markmanagement import StudentMarkManager
+StudentMarkManager.list_courses
+StudentMarkManager.list_students
+StudentMarkManager.show_student_marks
